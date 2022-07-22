@@ -8,5 +8,5 @@
 - 📫 How to reach me abanumolise.dev@gmail.com or on Twitter - [@dev_olise](https://www.twitter.com/dev_olise)
 
 ### [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Codeyenum&count_private=true&theme=darcula&showicons=true)]()
+### [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Codeyenum&theme=dark)](https://git.io/streak-stats)
 ### [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Codeyenum&langs_count=5&theme=darcula)]()
-### [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Codeyenum&theme=darcula&hide_border=true)](https://git.io/streak-stats)
