@@ -9,3 +9,4 @@
 
 ### [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Codeyenum&count_private=true&theme=darcula&showicons=true)]()
 ### [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Codeyenum&langs_count=5&theme=darcula)]()
+### [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Codeyenum&theme=darcula&hide_border=true)](https://git.io/streak-stats)
