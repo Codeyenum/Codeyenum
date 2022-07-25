@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Olise (oh-lee-seh)
 - 👀 I’m interested in FrontEnd Development and Software Engineering
-- 🌱 I’m currently learning HTML, CSS, JS and C programming language
-- 🔭 I’m currently working on HTML, CSS and basic JavaScript projects and learning the workings of C
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🔭 I’m currently working on HTML, CSS and basic JavaScript projects
 - 💞️ I’m looking to collaborate on projects to test my abilities
 - 📫 How to reach me abanumolise.dev@gmail.com or on Twitter - [@dev_olise](https://www.twitter.com/dev_olise)
 
