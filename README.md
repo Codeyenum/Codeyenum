@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Olise (oh-lee-seh)
+- 👋 Hi, I’m Olise 
 - 👀 I’m interested in FrontEnd Development and Software Engineering
-- 🔭 I’m currently working on HTML, CSS and basic JavaScript projects
+- 🔭 I’m currently working on HTML, CSS and JavaScript projects
 - 📫 How to reach me abanumolise.dev@gmail.com or on Twitter - [@olise_abanum](https://twitter.com/olise_abanum)
 
 ### [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Codeyenum&theme=dark)](https://git.io/streak-stats)
